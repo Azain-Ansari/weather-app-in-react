@@ -1,0 +1,43 @@
+.form{
+
+    font-size: 2rem;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     color: azure;
+     background-color: black;
+
+
+}
+.form input{
+    font-size: 1.5rem;
+    border-radius: 15px;
+    border: 1px solid gray;
+    color: azure;
+  
+}
+.form button{ 
+    font-size: 1.5rem;
+    border-radius: 15px;
+    border: 1px solid rgb(248, 7, 7);
+    color: azure;
+    background-color: black;
+}
+ h1{
+ text-align: center;
+ color: red;
+ font-size: 40px;
+
+ }
+ *{
+  background-color: black;
+ }
+ .loading{
+    text-align: center;
+    color: red;
+
+ }
+ .nodata{
+    text-align: center;
+    color: red;
+ }

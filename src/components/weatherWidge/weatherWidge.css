@@ -1,0 +1,18 @@
+.card {
+    /* border: 1px solid black; */
+    margin: 2rem;
+    padding: 1.5rem;
+    box-shadow: rgba(231, 9, 9, 0.3) 10px 29px 38px, rgba(194, 33, 33, 0.22) 10px 21px 19px;
+    color: white;
+    background-color: black;
+    border-radius: 25px;
+    border: 1px solid red;
+}
+
+
+.temp {
+    font-size: 2rem;
+}
+i{
+    font-size: 1.5rem;
+}
